@@ -1,14 +1,23 @@
-.bg-deep-orange{
+.bg-deep-orange,
+.btn-primary,
+.carousel-indicators [data-bs-target]{
     background-color: #ff5722 !important;
+}
+
+.btn-primary{
+    color: black;
+    border-color: #ff5722;
 }
 
 .text-deep-orange{
     color: #ff5722 !important;
 }
 
+
 .i-large{
     font-size: 100px;
   }
+
 
 .bd-placeholder-img {
     font-size: 1.125rem;
